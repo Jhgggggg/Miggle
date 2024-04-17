@@ -21,8 +21,8 @@ public class HomeActivity extends App.Component {
             
            new EntertaimentTab("Lives",null, 0),
            new EntertaimentTab("Games",R.drawable.gamer, 1),
-           new EntertaimentTab("Play",null, 2),
-           new EntertaimentTab("Entertainment",null, 3)
+           new EntertaimentTab("Play",null, 2)
+           
                   
                   
       ));
