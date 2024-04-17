@@ -21,7 +21,7 @@ public class App {
                   nav.setItemRippleColor(null);
                         
                   
-                  requestPermissions(new String[]{Manifest.permission.MANAGE_EXTERNAL_STORAGE},0);
+                  
                   
                   var userConfig = new String("{   config: {  'uiMode': 'dark','userDebug':true  }  }");
                   var configJson = new JSONObject(userConfig);
