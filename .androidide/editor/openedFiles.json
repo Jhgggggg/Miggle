@@ -1,35 +1,35 @@
 {
   "allFiles": [
     {
-      "file": "/storage/emulated/0/AndroidIDEProjects/Miggle/app/.gitignore",
+      "file": "/storage/emulated/0/AndroidIDEProjects/Miggle/.github/workflows/android.yml",
       "selection": {
         "end": {
-          "column": 0,
-          "index": 0,
+          "column": 14,
+          "index": 14,
           "line": 0
         },
         "start": {
-          "column": 0,
-          "index": 0,
+          "column": 14,
+          "index": 14,
           "line": 0
         }
       }
     },
     {
-      "file": "/storage/emulated/0/AndroidIDEProjects/Miggle/app/build.gradle.kts",
+      "file": "/storage/emulated/0/AndroidIDEProjects/Miggle/gradlew",
       "selection": {
         "end": {
-          "column": 0,
-          "index": 0,
-          "line": 0
+          "column": 15,
+          "index": 8475,
+          "line": 241
         },
         "start": {
-          "column": 0,
-          "index": 0,
-          "line": 0
+          "column": 15,
+          "index": 8475,
+          "line": 241
         }
       }
     }
   ],
-  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/Miggle/app/build.gradle.kts"
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/Miggle/gradlew"
 }
