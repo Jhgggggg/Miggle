@@ -1,0 +1,20 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Miggle/app/src/main/java/com/mobilesocial/miggle/SplashActivity.java",
+      "selection": {
+        "end": {
+          "column": 36,
+          "index": 70,
+          "line": 2
+        },
+        "start": {
+          "column": 36,
+          "index": 70,
+          "line": 2
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/Miggle/app/src/main/java/com/mobilesocial/miggle/SplashActivity.java"
+}
