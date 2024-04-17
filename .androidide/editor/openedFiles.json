@@ -1,7 +1,7 @@
 {
   "allFiles": [
     {
-      "file": "/storage/emulated/0/AndroidIDEProjects/Miggle/build.gradle.kts",
+      "file": "/storage/emulated/0/AndroidIDEProjects/Miggle/app/.gitignore",
       "selection": {
         "end": {
           "column": 0,
@@ -19,14 +19,14 @@
       "file": "/storage/emulated/0/AndroidIDEProjects/Miggle/app/build.gradle.kts",
       "selection": {
         "end": {
-          "column": 52,
-          "index": 515,
-          "line": 24
+          "column": 0,
+          "index": 0,
+          "line": 0
         },
         "start": {
-          "column": 52,
-          "index": 515,
-          "line": 24
+          "column": 0,
+          "index": 0,
+          "line": 0
         }
       }
     }
